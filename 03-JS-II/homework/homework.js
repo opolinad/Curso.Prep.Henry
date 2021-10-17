@@ -1,4 +1,4 @@
-// No cambies los nombres de las funciones.
+a// No cambies los nombres de las funciones.
 
 function obtenerMayor(x, y) {
   // "x" e "y" son números enteros (int).
@@ -218,6 +218,7 @@ function doWhile(numero) {
   do{
     numero=numero+5;
     i++;
+    
   } while (i<=8);
 
   return numero;
